@@ -1,1 +1,2 @@
-# polls_django
+# Django Polls Project
+## In construction
